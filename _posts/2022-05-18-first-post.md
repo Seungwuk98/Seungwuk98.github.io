@@ -1,7 +1,8 @@
 ---
 title: "첫 블로그 포스팅입니다. 두근두근"
 excerpt: "블로그를 새롭게 파보았습니다. 열심히 업로드 해봅시다..!"
-category: - Blog
+category: 
+ - Blog
 tags:
  - [Blog, jekyll, Github, Git]
 author_profile: true
