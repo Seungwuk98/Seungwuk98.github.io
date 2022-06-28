@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "은승욱"
 description              : "승욱은의 잡다한 개발 일상을 담는 곳"
-url                      : 
+url                      : https://seungwuk98.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "Seungwuk98/comments"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
