@@ -59,7 +59,7 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 algolia:
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "은승욱"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/img/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PS 좋아하는 잡다한 개발자"
   location         : "서울"
   email            :
@@ -122,10 +122,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Seungwuk98"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: https://www.instagram.com/seungwukeun/
 
 # Site Footer
 footer:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/Seungwuk98"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -147,7 +147,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/seungwukeun/
 
 
 # Reading Files
