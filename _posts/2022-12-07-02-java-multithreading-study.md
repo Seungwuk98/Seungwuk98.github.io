@@ -13,10 +13,7 @@ date: 2022-12-07
 last_modified_at: 2022-12-07
 ---
 
-# java 멀티스레딩, 병행성 및 성능 최적화 공부 1일차
----
 ## 멀티스레딩이 필요한 이유
----
 - 응답성
 ```
 1. 형편없는 응답성은 상품성을 떨어뜨린다.
@@ -31,11 +28,11 @@ last_modified_at: 2022-12-07
 ```
 
 ## 운영체제
----
 운영체제는 사용자 대신 하드웨어, cpu 등과 소통한다. 사용자가 어플리케이션을 실행하면 디스크에서 프로그램을 메모리로 가져와 프로그램의 인스턴스를 실행한다. 이 인스턴스는 '프로세스'로 각 프로세스는 시스템에서 실행되는 다른 프로세스와는 완전히 별개이다.
 
-<img src="../assets/img/structure.png" style="width:full;">
-<p style="width:full;" align="center"><프로세스 구조></p>
+![structure](/assets/img/structure.png)
+<center style="font-weight:bold; font-size:18px;">프로세스 구조</center>
+<br>
 
 힙에는 어플리케이션에 필요한 데이터를 가지고 있으며, '메인 스레드'라고 불리는 스레드가 하나는 존재한다. 각각의 스레드에는 스택과 Instruction Pointer를 지닌다. 또한 모든 스레드는 프로세스의 파일, 힙, 코드를 공유한다.
 
