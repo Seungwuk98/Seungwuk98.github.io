@@ -132,7 +132,7 @@ print(ssafy_ens)
 
 ## 그림 삽입
 ---
-```image
+```markdown
 img 태그 사용
 <img src="https://mypetlife.co.kr/9989/kakaotalk_20180720_165306472/"/>
 
