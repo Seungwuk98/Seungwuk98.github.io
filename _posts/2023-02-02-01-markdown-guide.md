@@ -1,3 +1,18 @@
+---
+title: "마크다운 가이드"
+excerpt: "개발자의 한글, 개발자의 워드 마크다운 시작하기"
+category: 
+ - 기타
+tags:
+ - [markdown, 마크다운, 블로그]
+author_profile: true
+toc: true
+toc_sticky: true
+published: true
+date: 2022-02-02
+last_modified_at: 2022-02-02
+---
+
 # 마크다운 가이드
 ---
 
