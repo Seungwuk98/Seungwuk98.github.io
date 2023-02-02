@@ -19,7 +19,6 @@ last_modified_at: 2023-02-02
 마크다운을 처음 써보시는 여러분들을 위해 준비했습니다. :smiley:
 
 ## Header
----
 ```markdown
 # 결과물은 아래와 같습니다.
 ## 결과물은 아래와 같습니다.
@@ -36,7 +35,6 @@ last_modified_at: 2023-02-02
 ###### 결과물은 아래와 같습니다.
 
 ## 구분선
----
 ```markdown
 구분선
 ---
@@ -51,7 +49,6 @@ last_modified_at: 2023-02-02
 
 
 ## Code Block
----
 <pre>
 <code>```python
 import ssafy_ens from ssafy
@@ -70,7 +67,6 @@ print(ssafy_ens)
 ```
 
 ## 인라인 코드 블록
----
 코드블럭은 너무 크다. 인라인으로 써야할 때도 많을 것이다.
 ```markdown
 이것이 `inline codeblock` 이다.
@@ -80,7 +76,6 @@ print(ssafy_ens)
 
 
 ## 강조 효과
----
 
 ```markdown
 강조
@@ -116,7 +111,6 @@ print(ssafy_ens)
 
 
 ## 링크
----
 ```markdown
 주소
 <http://myavatar.co.kr>
@@ -131,7 +125,6 @@ print(ssafy_ens)
 [내 포트폴리오](http://myavatar.co.kr)
 
 ## 그림 삽입
----
 ```markdown
 img 태그 사용
 <img src="https://mypetlife.co.kr/9989/kakaotalk_20180720_165306472/"/>
@@ -147,7 +140,6 @@ img 태그 사용
 ![image](https://mypetlife.co.kr/9989/kakaotalk_20180720_165306472/)
 
 ## Block Quotes
----
 ```markdown
 > 맻개고?
 >> 밥알 말이다.
@@ -158,7 +150,6 @@ img 태그 사용
 >>> 맻개고? 
 
 ## 리스트
----
 
 ```markdown
 순서 없는 리스트
@@ -206,7 +197,6 @@ img 태그 사용
 - [x] OOO
 
 ## 표
----
 ```markdown
 |왼쪽 정렬|중앙 정렬|오른쪽 정렬|
 |:---|:---:|---:|
@@ -229,7 +219,6 @@ img 태그 사용
 
 
 ## html 블럭
----
 마크다운은 결국 html로 렌더링 해주는 것..!
 이미 html인 것은 그대로 사용하므로 마크다운이 어렵다면 html을 사용하는 것도 가능합니다.
 
