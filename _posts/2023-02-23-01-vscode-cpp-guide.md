@@ -54,9 +54,11 @@ GCC 컴파일러는 [winlibs](https://winlibs.com/)에서 다운로드 가능하
 
 우선 `C/C++` 익스텐션을 설치해야한다. `C/C++ Extension Pack`을 설치하면 기타 등등 필요한 것들을 한꺼번에 받을 수 있다. 여기까지 설치가 완료되었다면, cpp 파일을 만들어 코드를 작성해보자. 
 
+
 |C/C++ Extension Pack|코드 작성|
 |:---:|:---:|
 |![image](https://seungwuk98.hopto.org/index.php/apps/files_sharing/publicpreview/WFaTDS47p9HNjrk?file=/&fileId=16037&x=1920&y=1080&a=true)|![image](https://seungwuk98.hopto.org/index.php/apps/files_sharing/publicpreview/o3FpC3fr5RckWfH?file=/&fileId=16047&x=1920&y=1080&a=true)|
+
 
 위와 같이 코드 하이라이트가 적용되면 성공이다. 만약 안된다면, 역시 vscode를 껐다가 켜보자.
 
@@ -129,6 +131,7 @@ GCC 컴파일러는 [winlibs](https://winlibs.com/)에서 다운로드 가능하
 `tasks.json`은 쉽게 말하면 매크로이다. 위는 `C/C++ 빌드`와 `g++ debug`두 가지 매크로에 대한 정보를 담고 있다. 
 
 설정에 대해 간단하게만 설명하면아래와 같다.
+
 |설정|설정하는 값|설정 내용|
 |:---:|:---:|:---|
 |`type`|명령의 종류|쉘스크립트를 이용할 것이므로 `shell`을 입력하였다.|
