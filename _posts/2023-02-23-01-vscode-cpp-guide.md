@@ -209,10 +209,10 @@ $ g++ -fdiagnostics-color=always -g ./ps/practice.cpp -o ./ps/practice.out && \
             "name": "C++ Launch",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}/${fileBasenameNoExtension}.out",
+            "program": "${fileDirname}/${fileBasenameNoExtension}.out",
             "stopAtEntry": false,
             "args": ["<", "input.txt", ">", "output.txt"],
-            "cwd": "${workspaceFolder}",
+            "cwd": "${fileDirname}",
             "MIMode": "gdb",
             "miDebuggerPath": "gdb",
             "preLaunchTask": "g++ debug"
