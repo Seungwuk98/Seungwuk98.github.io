@@ -128,7 +128,7 @@ class:
 
 ### 수식 작성하기
 ---
-기본 마크다운 미리보기는 수식을 지원하지 않지만, `marp`는 기본적으로 `Katex`와 `Mathjax`를 내장하고 있다. 설정에 `math: Katex`를 추가해보면 다음과 같이 수식을 작성할 수 있다.
+기본 마크다운 미리보기는 수식을 지원하지 않지만, `marp`는 기본적으로 `Katex`와 `Mathjax`를 내장하고 있다. 설정에 `math: Katex`를 추가해보면 다음과 같이 수식을 작성할 수 있다. 혹 문법을 잘 모른다면 [latex 문법](https://ko.wikipedia.org/wiki/%EC%9C%84%ED%82%A4%EB%B0%B1%EA%B3%BC:TeX_%EB%AC%B8%EB%B2%95)을 참고하자.
 
 ![image](https://seungwuk98.hopto.org/index.php/apps/files_sharing/publicpreview/cPfA2KKEsAr9Lob?file=/&fileId=20405&x=2560&y=1600&a=true)
 
