@@ -126,6 +126,11 @@ class:
 ```
 마크다운 내에 주석처리를 하고, 주석 내부에 위와 같이 작성해준다. 단 `_`없이 `class`를 선언하는 경우 **현재 슬라이드 이후 모든 슬라이드에 class**가 적용된다. 따라서 처음에만 정의해주고 웬만하면 슬라이드 내부에는 `_class`를 활용하는 것이 좋다.
 
+### 수식 작성하기
+---
+기본 마크다운 미리보기는 수식을 지원하지 않지만, `marp`는 기본적으로 `Katex`와 `Mathjax`를 내장하고 있다. 설정에 `math: Katex`를 추가해보면 다음과 같이 수식을 작성할 수 있다.
+
+![image](https://seungwuk98.hopto.org/index.php/apps/files_sharing/publicpreview/cPfA2KKEsAr9Lob?file=/&fileId=20405&x=2560&y=1600&a=true)
 
 ### html 추출 및 웹으로 불러오기
 ---
