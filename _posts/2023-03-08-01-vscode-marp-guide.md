@@ -1,5 +1,5 @@
 ---
-title: "VSCode Marp 접속 가이드"
+title: "VSCode Marp 시작 가이드"
 excerpt: "Marp로 빠르게 PPT를 만들어보자"
 category: 
  - 기타
