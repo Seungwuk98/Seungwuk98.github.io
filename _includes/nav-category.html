@@ -2,7 +2,7 @@
     <h3>카테고리</h3>
     <div class="nav__category">
         {% for category in site.categories %}
-            <div><a href="/categories/{{ category[0] | downcase}}" class="">{{category[0]}}</a></div>
+            <div><a href="/categories/{{ category[0] | downcase}}" class="">{{category[0]}} ({{category[1].size}})</a></div>
         {% endfor %}
     </div>
 </div>
