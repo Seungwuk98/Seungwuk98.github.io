@@ -2,7 +2,7 @@
 title: "java 멀티스레딩, 병행성 및 성능 최적화 공부 2일차"
 excerpt: "유데미 강의를 듣고 자바의 멀티스레딩에 대해 공부합니다."
 category: 
- - 자바 멀티스레딩
+ - Java
 tags:
  - [java, 자바, 멀티스레딩, 병행성]
 author_profile: true

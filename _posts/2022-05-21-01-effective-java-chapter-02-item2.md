@@ -2,7 +2,7 @@
 title: "이펙티브 자바 2장 공부 - 아이템2"
 excerpt: "생성자에 매개변수가 많다면 빌더를 고려하라"
 category: 
- - Effective java
+ - Java
 tags:
  - [java, Effective java]
 author_profile: true

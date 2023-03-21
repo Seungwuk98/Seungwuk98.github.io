@@ -2,7 +2,7 @@
 title: "이펙티브 자바 2장 공부 - 아이템1"
 excerpt: "생성자 대신 정적 팩터리 메서드를 고려하라"
 category: 
- - Effective java
+ - Java
 tags:
  - [java, Effective java]
 author_profile: true

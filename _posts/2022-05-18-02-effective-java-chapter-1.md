@@ -2,7 +2,7 @@
 title: "이펙티브 자바 1장 공부"
 excerpt: "이펙티브 자바를 공부합니다."
 category: 
- - Effective java
+ - Java
 tags:
  - [java, Effective java]
 author_profile: true
